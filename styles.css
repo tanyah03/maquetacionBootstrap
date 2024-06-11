@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    padding: 2em;
+}
+
+.barra h1 {
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.row {
+    padding: 1rem;
+}
+
+.barra {
+    background-color: #FF266E;
+}
+
+.cajaBorde {
+    border-style: solid;
+    border-color: #FF266E;
+    height: 30vh;
+}
+
